@@ -1,5 +1,6 @@
 # DesarrolloDeAplicacionesI
 Sistema de Soporte e Incidencias (Help Desk) para la Optimización y Control de Ventas en Campo
+
 Parte A: La Rama Descendente (Fase de Verificación)
 La fase descendente comprende la traducción de las necesidades del negocio en especificaciones cada vez más detalladas y listas para su implementación técnica.
 1. Análisis de Requisitos (Requirement Gathering)
